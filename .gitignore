@@ -1,0 +1,17 @@
+.idea/
+_pycache_/
+env/
+.env
+curso-env/
+AgenticRAG\.env
+.vscode/
+flagged/
+models/
+img/
+Mistral/_pycache_/
+.venv
+chroma
+chroma_tmp
+docs
+
+
